@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WordCounter</string>
+    <string name="count">count</string>
 </resources>
